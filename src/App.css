@@ -3,6 +3,7 @@
   justify-content: flex-end;
   margin: 20px;
   cursor: pointer;
+  margin-bottom: 30px;
 }
 
 .nav-section{
@@ -128,6 +129,15 @@
     .menu-list {
       display: none;
     }
+
+    .search-box{
+      top: 140px;
+    }
+
+    .search-box input{
+      width: 100px;
+    }
+
   }
 
   .overlay {
